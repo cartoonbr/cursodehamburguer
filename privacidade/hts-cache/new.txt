@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:34:34	126/126	---MC-	200	added ('OK')	text/plain	date:Sun,%2015%20Nov%202020%2004:34:48%20GMT	https://www.cursodehamburguer.com/robots.txt		(from )
+01:34:34	15710/15710	---M-Z	200	added ('OK')	text/html	date:Sun,%2015%20Nov%202020%2004:34:49%20GMT	https://www.cursodehamburguer.com/privacidade/	C:/Meus%20Sites/privacidade/index-2.html	(from )
